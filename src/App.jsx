@@ -391,7 +391,7 @@ export default function Page() {
               alt="Love Animation"
             />
             <h1 className="text-4xl md:text-6xl my-4 text-center">
-              Sumaia Please Forgive Me & Be Mine? 🥹💖
+              Sumaia Please Forgive Me  & Theke Jao? 🥹💖
             </h1>
             <div className="flex flex-wrap justify-center gap-2 items-center">
               <button
